@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+data/cache/
+.env
+fantasy_assistant.zip
+
